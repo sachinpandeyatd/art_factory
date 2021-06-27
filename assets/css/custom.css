@@ -1,0 +1,23 @@
+/*
+===================================
+        My Internship Task 
+===================================
+*/
+nav#vertical-dotted-nav {
+    position: fixed;
+    right: 20px;
+    top: 300px;
+}
+
+nav#vertical-dotted-nav a {
+    border: 1px solid #121212;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    display: block;
+    margin: 10px;
+}
+
+.hide {
+  display: none;
+}
